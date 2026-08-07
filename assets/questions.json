@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "company": "TCS",
+      "topic": "Aptitude",
+      "difficulty": "Easy",
+      "questionText": "If a train travels 120 km in 2 hours, what is its average speed?",
+      "optionA": "50 km/hr",
+      "optionB": "60 km/hr",
+      "optionC": "70 km/hr",
+      "optionD": "80 km/hr",
+      "correctAnswer": "B",
+      "explanation": "Speed = Distance / Time = 120 / 2 = 60 km/hr"
+    },
+    {
+      "id": 2,
+      "company": "TCS",
+      "topic": "Coding",
+      "difficulty": "Medium",
+      "questionText": "What is the output of: print(2 ** 3)?",
+      "optionA": "6",
+      "optionB": "8",
+      "optionC": "9",
+      "optionD": "Error",
+      "correctAnswer": "B",
+      "explanation": "** is exponentiation operator. 2^3 = 8"
+    },
+    {
+      "id": 3,
+      "company": "Infosys",
+      "topic": "Aptitude",
+      "difficulty": "Easy",
+      "questionText": "A shopkeeper gives 10% discount on marked price. If selling price is Rs. 450, what is marked price?",
+      "optionA": "Rs. 480",
+      "optionB": "Rs. 500",
+      "optionC": "Rs. 495",
+      "optionD": "Rs. 520",
+      "correctAnswer": "B",
+      "explanation": "MP = SP / (1 - discount%) = 450 / 0.9 = 500"
+    }
+  ]
+}
